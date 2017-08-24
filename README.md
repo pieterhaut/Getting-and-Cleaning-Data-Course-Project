@@ -5,6 +5,8 @@ This README file contains a description of the steps which where taken to create
 In this files I will also try to explain my decision and interpretations on the assignment.
 The script "run_analysis.R" does not exactly follow the steps as described in the assignment, but I have indicated which commands execute which steps in the comments of the script.
 
+To check whether the data is tidy I highly commend importing the data set into R with the command read.table(). MAKE SURE YOU SPECIFY header = TRUE
+
 
 To create the tidy data set, the next original files were used:
 
